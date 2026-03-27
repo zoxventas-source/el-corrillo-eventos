@@ -80,7 +80,7 @@ const LocationSection = () => (
         >
           <iframe
             title="Ubicación Quinta El Corrillo"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.2!2d-58.78!3d-34.44!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDI2JzI0LjAiUyA1OMKwNDYnNDguMCJX!5e0!3m2!1ses!2sar!4v1700000000000"
+            src="https://www.google.com/maps/place/EL+CORRILLO+Eventos/@-34.4711127,-58.9192872,465m/data=!3m1!1e3!4m10!1m2!2m1!1ssalones+de+eventos!3m6!1s0x95bc9ddad34d2dfd:0x58d3816d0ab4c30e!8m2!3d-34.4707959!4d-58.9178732!15sChJzYWxvbmVzIGRlIGV2ZW50b3OSARZmdW5jdGlvbl9yb29tX2ZhY2lsaXR54AEA!16s%2Fg%2F11gjw3fzly?entry=ttu&g_ep=EgoyMDI2MDMyMy4xIKXMDSoASAFQAw%3D%3D"
             width="100%"
             height="100%"
             style={{ border: 0 }}
